@@ -1,7 +1,7 @@
 FROM alpine:edge
 
 LABEL com.github.containers.toolbox="true" \
-      name="video-toolbox" \
+      name="net-toolbox" \
       version="edge" \
       usage="This image is meant to be used with the toolbox command" \
       summary="Alpine toolbox containers with video tools" \
