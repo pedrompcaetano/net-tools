@@ -16,6 +16,4 @@ tcpdump
 util-linux
 wget
 which
-nmap
-sipcalc
-lftp
+yt-dlp
