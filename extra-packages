@@ -16,7 +16,6 @@ tcpdump
 util-linux
 wget
 which
-yt-dlp
 lftp
 nmap
 nmap-scripts
