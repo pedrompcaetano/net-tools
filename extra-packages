@@ -19,3 +19,7 @@ which
 yt-dlp
 lftp
 nmap
+nmap-scripts
+nmap-nselibs
+nmap-nping
+nmap-ncat
