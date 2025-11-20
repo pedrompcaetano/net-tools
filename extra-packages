@@ -23,3 +23,4 @@ nmap-nselibs
 nmap-nping
 nmap-ncat
 sipcalc
+inetutils-telnet
