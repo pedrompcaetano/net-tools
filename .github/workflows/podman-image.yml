@@ -10,7 +10,7 @@ jobs:
     - uses: actions/checkout@v4
 
     - name: Buildah Action
-      uses: redhat-actions/buildah-build@v2
+      uses: redhat-actions/buildah-build@v3
       with:
         image: my-new-image
         tags: v1 ${{ github.sha }}
